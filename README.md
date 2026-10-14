@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Alejandro Carvajal — Systems built for serious volume](./assets/profile-banner.svg)](https://programmeralek.com)
+[![Alejandro Carvajal — Systems built for serious volume](./assets/profile-banner-centered.svg)](https://programmeralek.com)
 
 <a href="https://programmeralek.com"><img src="./assets/portfolio.svg" alt="Explore my portfolio" width="168" /></a>&nbsp;
 <a href="https://linkedin.com/in/programmeralek"><img src="./assets/linkedin.svg" alt="Connect on LinkedIn" width="168" /></a>&nbsp;
